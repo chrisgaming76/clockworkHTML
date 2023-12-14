@@ -1,9 +1,9 @@
 const names = [
     ["Clever | Connect every student to a world of learning", "clever.com"],
     ["Campus Student", "infinitecampus.org"],
-    ["Google Classroom", "classroom.google.com"]
-    ["Home | Schoology", "schoology.washk12.org"]
-    ["CodeHS", "codehs.com"]
+    ["Google Classroom", "classroom.google.com"],
+    ["Home | Schoology", "schoology.washk12.org"],
+    ["CodeHS", "codehs.com"],
     ["Formative", "app.formative.com"]
 ]
 const item = names[Math.floor(Math.random() * names.length)]
